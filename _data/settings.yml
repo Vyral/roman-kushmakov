@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Glendale Real Estate Video Blog with Roman Kushmakov
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Roman Kushmakov
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Roman is the Founder and CEO of Roman Group with Homesmart International, which is the largest brokerage in state of Arizona. Over the past 12 years, Roman has been helping buyers and sellers in the valley their real estate needs. He takes pride in being go-to real estate advisor with five star customer service for his clients. When you contact Roman for your real estate needs, you can count on his market knowledge of the areas, honesty, and care. He will guide through the whole process with the least amount of stress as possible.
+  market: Glendale
+  brand: The Roman Group
   brokerage:
-  address:
-  phone:
+  address:  '17215 N 72nd Dr #115 B Glendale Az 85308'
+  phone: 480-442-5179
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Roman@HomeSeekersGroup.com
+  url: http://www.FreeValleyHomeSearch.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.freevalleyhomesearch.com/selling/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.freevalleyhomesearch.com/search/advanced_search/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.freevalleyhomesearch.com/selling/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.freevalleyhomesearch.com/search/advanced_search/
 
 lender:
   show_section: false
@@ -57,14 +57,14 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/The-Roman-Group-Homesmart-Realty-562167483905719/
+  linkedin_url: https://www.linkedin.com/in/roman-kushmakov-803b5713/
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/Roman-Kushmakov/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -100,7 +100,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#803434'
 
 buttons:
   button_radius_number: 0
