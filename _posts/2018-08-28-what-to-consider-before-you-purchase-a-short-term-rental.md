@@ -28,10 +28,10 @@ With AirBnB becoming an increasingly popular way to rent out properties, many pe
 
 {% include pullquote.html %}
 
-**3. What is the rental rate for furnished rentals in the area?** Before you put an offer on the property, make sure either you or your Realtor do some research on the going rate for short-term and AirBnB rentals in the neighborhood. This will help you determine approximately how much you will make on the investment per month after expenses.
+**3. What is the rental rate for furnished rentals in the area?** Before you put an offer on the property, make sure either you or your Realtor does some research on the going rate for short-term and AirBnB rentals in the neighborhood. This will help you determine approximately how much you will make on the investment per month after expenses.
 
 **4. What is the price of the property?** Going along with what you can charge, the price of the property will help determine what your return is. Sometimes buying the cheapest home in a bad neighborhood isn't the best option, because people won't want to stay there and you will have more vacancies. I have found that purchasing a property that needs work but is in a nice neighborhood can be a great option, because you can negotiate on a favorable price upon purchase and then remodel the home to earn a higher cash flow.
 
-**5. Is it AirBnB eligible?** Some condo and townhome communities in Arizona, especially in Phoenix, don't allow short-term rentals, and instead require a three- to six-month minimum lease. This is why it’s important to do your research before putting an offer in on a home. If it is an HOA property, you can simply ask the HOA and they will guide you on what’s allowed. 
+**5. Is it AirBnB eligible?** Some condo and townhome communities in Arizona, especially in Phoenix, don't allow short-term rentals, and instead require a three- to six-month minimum lease. This is why it’s important to do your research before putting an offer in on a home. If it is an HOA property, you can simply ask the HOA and they will guide you on what’s allowed.&nbsp;
 
 If you have any additional questions about this, please feel free to reach out to me. I look forward to speaking with you soon.
