@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/T_2iUlpNjEc'
 
 With AirBnB becoming an increasingly popular way to rent out properties, many people ask me how to go about buying a property for this purpose. Personally, I always look at the same five things when I consider buying a short-term rental property.
 
-**1. What amenities does the community have?** You need to consider the different amenities that are available with your purchase, such as a community pool, a gym, a recreational space, and walking or biking trails. Short term tenants will enjoy having access to these places with your accommodation.
+**1. What amenities does the community have?** You need to consider the different amenities that are available with your purchase, such as a community pool, a gym, a recreational space, and walking or biking trails. Short-term tenants will enjoy having access to these places with your accommodation.
 
 **2. What is in the surrounding area?** People who are renting short-term will Google the proximity of your property's location to shopping centers, entertainment, restaurants, nightlife, etc. The closer it is to these types of entertainment, the more likely you are to have more bookings which means more money for you.
 
