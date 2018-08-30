@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to Consider Before You Purchase a Short-Term Rental
+title: 5 Things to Consider Before Purchasing an Airbnb Rental Property
 date: 2018-08-28 17:03:00
 tags:
   - Home Buyer Tips
@@ -32,6 +32,6 @@ With AirBnB becoming an increasingly popular way to rent out properties, many pe
 
 **4. What is the price of the property?** Going along with what you can charge, the price of the property will help determine what your return is. Sometimes buying the cheapest home in a bad neighborhood isn't the best option, because people won't want to stay there and you will have more vacancies. I have found that purchasing a property that needs work but is in a nice neighborhood can be a great option, because you can negotiate on a favorable price upon purchase and then remodel the home to earn a higher cash flow.
 
-**5. Is it AirBnB eligible?** Some condo and townhome communities in Arizona, especially in Phoenix, don't allow short-term rentals, and instead require a three- to six-month minimum lease. This is why it’s important to do your research before putting an offer in on a home. If it is an HOA property, you can simply ask the HOA and they will guide you on what’s allowed.&nbsp;
+**5. Is it AirBnB eligible?** Some condo and townhome communities in Arizona, especially in Phoenix, don't allow short-term rentals, and instead require a three- to six-month minimum lease. This is why it’s important to do your research before putting an offer in on a home. If it is an HOA property, you can simply ask the HOA and they will guide you on what’s allowed. 
 
 If you have any additional questions about this, please feel free to reach out to me. I look forward to speaking with you soon.
