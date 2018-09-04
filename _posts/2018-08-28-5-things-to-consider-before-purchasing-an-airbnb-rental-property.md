@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   Today I am giving you the five things that I always consider before I purchase
-  a short-term property.
+  a short-term rental property.
 enclosure:
 pullquote: >-
   Some condo and townhome communities in Arizona, especially in Phoenix, don't
