@@ -14,8 +14,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/roman-kusmakov-how-to-purchase-a-short-term-rental-youtube.jpg
-youtube_code: 'https://youtu.be/T_2iUlpNjEc'
+youtube_alternate_image: /uploads/roman-kusmakov-how-to-purchase-airbnb-youtube.jpg
+youtube_code: 'https://youtu.be/BCo7MgKt40Q'
 ---
 
 {% include youtube.html %}
