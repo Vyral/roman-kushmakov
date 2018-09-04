@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I am giving you the five things that I always consider before I purchase
   a short-term rental property.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Roman+Kushmakov/The+Roman+Group-+5+Things+to+Consider+Before+Purchasing+an+Airbnb+Rental+Property.mp4
 pullquote: >-
   Some condo and townhome communities in Arizona, especially in Phoenix, don't
   allow short-term rentals.
