@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/SY5eEsryuds'
 
 {% include youtube.html %}
 
-Here are the three reasons why you should the Roman Group to sell your home.&nbsp;
+Here are the three reasons why you should hire the Roman Group to sell your home.&nbsp;
 
 First, **we offer a communication guarantee.** According to the NAR, 70% of all consumers complain that their agents didn’t sufficiently communicate with them. You won’t get that from us because we include a communication guarantee in our agreement.&nbsp;
 
