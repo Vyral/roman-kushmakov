@@ -21,7 +21,7 @@ youtube_code: IPxly_jkrQo
 
 {% include youtube.html %}
 
-In the greater Phoenix area this September, active listings were at 19,143. Comparing this to September of 2017, when there where 19,921, our current numbers represent a 3.9% drop in active listings.
+In the Greater Phoenix Area this September, active listings were at 19,143. Comparing this to September of 2017, when there where 19,921, our current numbers represent a 3.9% drop in active listings.
 
 There were 9,042 new listings on the market in September, which was a 6.3% decrease from this same time last year, when there were 9,646.
 
