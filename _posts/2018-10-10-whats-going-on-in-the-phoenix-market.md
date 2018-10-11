@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in the Phoenix Market?
-date: 2018-10-10 19:23:42
+date: 2018-10-10 19:23:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sept-market-update-youtube.jpg
-youtube_code: IPxly_jkrQo
+youtube_code: UCpVqUCksXo
 ---
 
 {% include youtube.html %}
