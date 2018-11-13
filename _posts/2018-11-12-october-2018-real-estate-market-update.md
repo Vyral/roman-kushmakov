@@ -19,7 +19,7 @@ youtube_code: l38JKFQJgP8
 
 {% include youtube.html %}
 
-We’re getting closer towards the end of the year, so we wanted to bring you up to speed on the real estate market. **Here are the numbers you need to know for the Phoenix market for October 2018:**
+We’re getting closer toward the end of the year, so we wanted to bring you up to speed on the real estate market. **Here are the numbers you need to know for the Phoenix market for October 2018:**
 
 * We had 19,996 active listings in October 2018, which is down 2.9% from the 20,590 we saw at this time last year.
 * We had 9,774 new listings, which is down 2% from the 9,974 we saw in October 2017.
