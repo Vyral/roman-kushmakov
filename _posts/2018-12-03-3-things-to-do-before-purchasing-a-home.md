@@ -27,6 +27,6 @@ youtube_code: tdX-fWbALno
 
 {% include pullquote.html %}
 
-**3. Hire the right Realtor.** You want to hire someone who has at least several years of experience dealing with buyers and sellers. You also want to hire someone who is an expert in your market and someone who can get you the best possible terms on your purchase with the least amount of hassle.
+**3. Hire the right Realtor.** You want to hire someone who has at least several years of experience dealing with buyers and sellers. You also want to hire someone who is an expert in your market and can get you the best possible terms on your purchase with the least amount of hassle.
 
 If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
