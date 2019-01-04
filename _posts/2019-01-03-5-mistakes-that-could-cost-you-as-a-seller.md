@@ -29,7 +29,7 @@ There are a number of pitfalls that you should avoid when selling your home and 
 
 {% include pullquote.html %}
 
-**3. Neglecting to declutter.** Listen to your Realtor’s advice on what needs to be removed from each room of your home. If your Realtor plans to take photos of your property, you’ll want to be sure that odds and ends and messy spaces are taken care of. Pictures of spruced up, organized rooms could make all the difference in buyer interest.
+**3. Neglecting to declutter.** Listen to your Realtor’s advice on what needs to be removed from each room of your home. If your Realtor plans to take photos of your property, you’ll want to be sure that odds and ends and messy spaces are taken care of. Pictures of spruced up, organized rooms could make all the difference in terms of buyer interest.
 
 **4. Not allowing adequate access to the property.** Your schedule will need to be adaptable to buyers’ schedules. Being as flexible as possible will ensure a timely and satisfactory sale.
 
