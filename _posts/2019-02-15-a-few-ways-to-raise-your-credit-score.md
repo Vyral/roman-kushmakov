@@ -19,7 +19,7 @@ youtube_code: 4vWKUytJwzo
 
 {% include youtube.html %}
 
-Today we're going to talk about how to increase your FICO score. I get this question all the time and **today I want to provide some answers that have helped both me and my past clients increase our scores substantially.**
+Looking to increase your FICO score? I'm asked how this can be done all the time, and **today I want to provide some answers that have helped both me and my past clients increase our scores substantially.**
 
 Before giving you the tips, you need to understand that there are five components involved in the score. The two major ones are payment history and credit utilization. Payment history makes up 35% of your score, so it’s critical to pay your bills on time. **The easiest solution to this is setting up automatic payments so you don’t forget.**
 
