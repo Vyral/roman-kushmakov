@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Ways to Raise Your Credit Score
-date: 2019-02-15 19:41:58
+date: 2019-02-15 19:41:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/credit-score-youtube.jpg
-youtube_code: 4vWKUytJwzo
+youtube_code: qSpEIEQp4BQ
 ---
 
 {% include youtube.html %}
