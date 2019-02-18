@@ -25,8 +25,8 @@ Before giving you the tips, you need to understand that there are five component
 
 {% include pullquote.html %}
 
-Another great tip is to not use more than 30% of your credit limit on a monthly basis. If you have $5,000 limit on your card, don’t go out and spend $5,000. If you have to spend, only spend 30% of that limit, or $1500.
+Another great tip is to not use more than 30% of your credit limit on a monthly basis. If you have a $5,000 limit on your card, don’t go out and spend $5,000. If you have to spend, only spend 30% of that limit, or $1,500.
 
-Finally, if you have a credit card that you’ve had for a couple of years and don’t use it much, don’t close it. **If it’s your longest trade line, it’s better to use it once in a while and keep it instead of getting rid of it.**
+Finally, If you've had a credit card for a couple of years and don't use it much, don't close it. **If it’s your longest trade line, it’s better to use it once in a while and keep it instead of getting rid of it.**
 
 Hopefully these tips and tricks help you improve your score. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
