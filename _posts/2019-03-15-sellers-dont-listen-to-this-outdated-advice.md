@@ -21,7 +21,7 @@ youtube_code: x3Ry26zUn1c
 
 {% include youtube.html %}
 
-If you want to sell your home quickly and for top dollar, then don’t listen to these x pieces of outdated listing advice.&nbsp;
+If you want to sell your home quickly and for top dollar, then don’t listen to these 5 pieces of outdated listing advice.&nbsp;
 
 **1. “Wait until spring to sell.”** There may be more buyers in the market during the spring and summer months, but there are also more competing sellers. More competition equals less leverage, so, therefore, it’s often better to list sooner in the year. Plenty of homes sell successfully at any time of year, and sellers who list during a down time have a particular advantage.&nbsp;
 
